@@ -1,0 +1,30 @@
+{
+  "name": "node-express-app",
+  "version": "1.0.0",
+  "description": "An experiment using Node and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silversurfer5150/NodeExpressApp.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Will Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silversurfer5150/NodeExpressApp/issues"
+  },
+  "homepage": "https://github.com/silversurfer5150/NodeExpressApp#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "mustache-express": "^1.2.5",
+    "nodemon": "^1.12.1"
+  }
+}

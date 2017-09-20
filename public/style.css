@@ -1,0 +1,34 @@
+body {
+	background: #000000;
+}
+
+.content{
+	float:left;
+	clear: both;
+	margin: 50px;
+}
+
+h1{
+	color: #fff;
+}
+
+p{
+	color: #ccc;
+	font-size: 1.2em;
+}
+
+ul li {
+	float:left;
+	margin: 20px;
+	font-size: 1.4em;
+}
+
+a:visited, a:hover, a:link {
+	color: yellowgreen;
+}
+
+img{
+	margin: 50px;
+	float: left;
+	clear: both;
+}
