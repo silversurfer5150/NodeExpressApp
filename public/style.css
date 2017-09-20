@@ -18,13 +18,8 @@ p{
 }
 
 ul li {
-	float:left;
-	margin: 20px;
-	font-size: 1.4em;
-}
-
-a:visited, a:hover, a:link {
 	color: yellowgreen;
+	font-size: 2em;
 }
 
 img{
