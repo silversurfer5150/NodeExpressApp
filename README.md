@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NodeExpressApp
 Experiment to create an app using Node.js and Express
 
@@ -33,6 +32,3 @@ Unpacking objects: 100% (10/10), done.
 * In the project root, run `npm install` to install dependencies
 * To start app `nodemon app`
 
-=======
-# NodeExpressApp
->>>>>>> 8b969ccccf1be92264a509ad633179748be4569e
