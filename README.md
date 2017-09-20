@@ -15,7 +15,7 @@ Experiment to create an app using Node.js and Express
 * Open Terminal.
 * Type git clone, and then paste the URL you copied. It will look like this, with your GitHub username instead of YOUR-USERNAME:
 ```{bash}
-git clone https://github.com/YOUR-USERNAME/ReactFlickrApi/
+git clone https://github.com/YOUR-USERNAME/NodeExpressApp/
 ```
 * Press Enter. Your local clone will be created.
 ```bash
