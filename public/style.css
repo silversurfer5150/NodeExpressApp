@@ -3,27 +3,24 @@ body {
 }
 
 .content{
-	float:left;
-	clear: both;
-	margin: 50px;
+	margin: 10px 50px;
 }
 
-h1{
+h2{
 	color: #fff;
+	clear: both;
 }
 
 p{
-	color: #ccc;
-	font-size: 1.2em;
-}
-
-ul li {
 	color: yellowgreen;
-	font-size: 2em;
+	font-size: 1.4em;
 }
 
 img{
 	margin: 50px;
-	float: left;
-	clear: both;
+}
+
+p > img {
+	float:left;
+	border: solid 4px yellowgreen;
 }
